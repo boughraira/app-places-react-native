@@ -13,7 +13,7 @@ export const addPlace = (title, image, location) => {
         headers: {
           "x-rapidapi-host": "google-maps-geocoding.p.rapidapi.com",
           "x-rapidapi-key":
-            "ef1f514246msh6db041c453c1e6dp19cf9fjsnaabe6342ea11",
+            "",
         },
       }
     );
